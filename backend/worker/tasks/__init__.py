@@ -1,0 +1,1 @@
+from worker.tasks import samples  # noqa: F401  (importing registers the tasks)
